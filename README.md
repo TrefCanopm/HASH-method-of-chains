@@ -1,0 +1,1 @@
+# HASH method of chains
